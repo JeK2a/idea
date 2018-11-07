@@ -1,0 +1,40 @@
+========================
+версия: 2018.2.1
+========================
+1. Закрыть программу
+2. Файл JetbrainsCrack-3.1.jar из папки Activation скопировать, к примеру, в C:\JBLicense\
+3. В папке, куда установлена программа, открыть папку bin и добавить в конец файла (не в название, а открыть файл на редактирование как текстовый!) ***64.exe.vmoptions (или ***.exe.vmoptions - если используете 32-битный лаунчер программы) с новой строки:
+
+-javaagent:c:\JBLicense\JetbrainsCrack-3.1.jar
+
+4. Запустите программу >> Help >> Register >> Activation code, ввести любой текст
+
+Примечание:
+***********
+Если вам необходимо изменить поле "licenseeName", то в п.4 вместо "любой текст" введите блок, указанный ниже, исправив "licenseeName" на нужный вам:
+{"licenseId":"ThisCrackLicenseId",
+"licenseeName":"Rover12421",
+"assigneeName":"Rover12421",
+"assigneeEmail":"rover12421@163.com",
+"licenseRestriction":"By Rover12421 Crack, Only Test! Please support genuine!!!",
+"checkConcurrentUse":false,
+"products":[
+{"code":"II","paidUpTo":"2099-12-31"},
+{"code":"DM","paidUpTo":"2099-12-31"},
+{"code":"AC","paidUpTo":"2099-12-31"},
+{"code":"RS0","paidUpTo":"2099-12-31"},
+{"code":"WS","paidUpTo":"2099-12-31"},
+{"code":"DPN","paidUpTo":"2099-12-31"},
+{"code":"RC","paidUpTo":"2099-12-31"},
+{"code":"PS","paidUpTo":"2099-12-31"},
+{"code":"DC","paidUpTo":"2099-12-31"},
+{"code":"RM","paidUpTo":"2099-12-31"},
+{"code":"CL","paidUpTo":"2099-12-31"},
+{"code":"PC","paidUpTo":"2099-12-31"},
+{"code":"DB","paidUpTo":"2099-12-31"},
+{"code":"GO","paidUpTo":"2099-12-31"},
+{"code":"RD","paidUpTo":"2099-12-31"}
+],
+"hash":"2911276/0",
+"gracePeriodDays":7,
+"autoProlongated":false}
